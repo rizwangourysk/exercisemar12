@@ -1,11 +1,10 @@
 gggggggggggggg 
 kkkkkkkkkkk
 mmmmmmmmmmm
-<<<<<<< HEAD
+
 llllllllll
 kkkkkkkkkkkrrrrrrrr
-=======
+
 
 4444444444444 
-6666666666666666
->>>>>>> a2743c07344a0285a73a48d3a04df2f6e20aff58
+66666666666666
